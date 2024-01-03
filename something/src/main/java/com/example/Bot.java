@@ -21,8 +21,8 @@ public class Bot extends TelegramLongPollingBot{
     private byte union = 0;
     private final String username = "Tosterw";
     private String name;
-    private final String token = "6418753490:AAETxwmKJEySQYH8CAkQJ2Vx0RdF4vt1qEg";
-    private final String botUsername = "YandexTranslateHelpBot";
+    private final String token = "Your bot token";
+    private final String botUsername = "Your bot username";
 
     private Map<String, String> mapWords = new HashMap<>();
 
